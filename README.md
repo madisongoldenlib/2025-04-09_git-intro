@@ -5,7 +5,7 @@
 
 ## Website location
 
-The website for this workshop has been rendered here: [https://uofudelphi.github.io/2023-11-30-git/](https://uofudelphi.github.io/2023-11-30-git/)
+The website for this workshop has been rendered here: [https://madisongoldenlib.github.io/2025-04-09_git-intro/](https://madisongoldenlib.github.io/2025-04-09_git-intro/)
 
 ## Modifying the lessons
 
@@ -14,7 +14,7 @@ The Git/GitHub lessons can be found on the [Software Carpentry website](https://
 
 ## Updating the schedule
 
-The html code for the schedule table can be found in `_includes/swc/schedule.html`. Changes to this file that are pushed to github will be automatically rendered on the main website ([https://uofudelphi.github.io/2023-12-01-sql/](https://uofudelphi.github.io/2023-12-01-sql/)) within a few minutes.
+The html code for the schedule table can be found in `_includes/swc/schedule.html`. Changes to this file that are pushed to github will be automatically rendered on the main website [https://madisongoldenlib.github.io/2025-04-09_git-intro/](https://madisongoldenlib.github.io/2025-04-09_git-intro/) within a few minutes.
 
 
 ## Editing general website information
